@@ -1,0 +1,8 @@
+numpy
+pandas
+firebase-admin
+tensorflow
+keras
+scikit-learn
+seaborn
+matplotlib
